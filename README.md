@@ -21,3 +21,4 @@ A simple yet powerful C++ application for converting common units such as temper
 ## **Project Structure**
 The application is organized into a modular structure for clarity and maintainability:
 
+UnitConverter/ ├── src/ │ ├── main.cpp # Main program file │ ├── menu.cpp # Manages the dynamic menu │ ├── conversions.cpp # Implements the conversion functions │ ├── validation.cpp # Validates user input ├── include/ │ ├── menu.h │ ├── conversions.h │ ├── validation.h ├── Makefile # Script to build the project
