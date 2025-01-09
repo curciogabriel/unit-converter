@@ -23,14 +23,12 @@ The application is organized into a modular structure for clarity and maintainab
 
 ### **Details**
 - **`src/`**: Contains the main logic of the application.
-  - **`main.cpp`**: Entry point of the program.
   - **`menu.cpp`**: Manages the user interface and menu navigation.
   - **`conversions.cpp`**: Implements the unit conversion functions.
   - **`validation.cpp`**: Handles input validation for safe user interaction.
-  
 - **`include/`**: Stores the header files that define the program's modular components.
   - **`menu.h`**: Header file for menu management.
   - **`conversions.h`**: Header file for conversion logic.
   - **`validation.h`**: Header file for input validation.
-
+- **`main.cpp`**: Entry point of the program.
 - **`Makefile`**: Automates the compilation process, simplifying building and running the project.
