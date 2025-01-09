@@ -31,4 +31,4 @@ The application is organized into a modular structure for clarity and maintainab
   - **`conversions.h`**: Header file for conversion logic.
   - **`validation.h`**: Header file for input validation.
 - **`main.cpp`**: Entry point of the program.
-- **`UnitConverter`**: Automates the compilation process, simplifying building and running the project.
+- **`UnitConverter`**: Automates the compilation process, simplifying building and running the project!
