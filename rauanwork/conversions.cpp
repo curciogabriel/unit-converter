@@ -1,6 +1,6 @@
 #include <iostream>
 
-void convertWeight() {
+void ConvertWeight() {
     int option;
     double result, value;
 
@@ -26,6 +26,6 @@ void convertWeight() {
 }
 
 int main() {
-    convertWeight();
+    ConvertWeight();
     return 0;
 }
